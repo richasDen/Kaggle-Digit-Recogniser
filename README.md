@@ -1,1 +1,1 @@
-# Kaggle-Digit-Recogniser
+Using CNN on Digit recogniser
